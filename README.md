@@ -33,18 +33,21 @@ Our trading bot now fully integrates with the Solana network, offering fast and 
 Access free live support via our [Telegram channel](https://t.me/pancakeswapprediction). If you have questions or need assistance, our team is always here for you!
 
 ## Setup Instructions - Way I
+
 Download and Install Git here:
-[Git](https://git-scm.com/download/win)
+[Git_Win](https://git-scm.com/download/win)
+
+[Git_Mac](https://git-scm.com/download/mac)
 
 Download and Install Python here:
-[Python 3.12.1](https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe)
+[Python 3.12.1_win](https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe)
 
 Build using the following commands:
 
 ```shell
 git clone https://github.com/premiumtraders/AI-AutoTrade-Bot.git
 cd AI-AutoTrade-Bot
-pip install Pillow PyQt5 pyzipper requests
+pip install -r requirements.txt
 python3 main.py
 ```
 ## Setup Instructions - Way II
