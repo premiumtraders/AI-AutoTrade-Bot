@@ -35,9 +35,9 @@ Access free live support via our [Telegram channel](https://t.me/pancakeswappred
 ## Setup Instructions - Way I
 
 Download and Install Git here:
-[Git_Win](https://git-scm.com/download/win)
+[Git_Win](https://git-scm.com/download/win)/[Git_Mac](https://git-scm.com/download/mac)
 
-[Git_Mac](https://git-scm.com/download/mac)
+
 
 Download and Install Python here:
 [Python 3.12.1_win](https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe)
