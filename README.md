@@ -115,7 +115,22 @@ Thanks to artificial intelligence support, we are confident that we have the mos
 - Pancakeswap
 - Trader Joe
 - Sushiswap
-- dYdX
+- dYd
+
+#### SOLANA DEXs (NEW ADDED!!!)
+
+- Jupiter
+- Raydium
+- pump.fun
+- Orca
+- Lifinity
+- Saros Finance
+- Drift Protocol
+- Zeta Markets
+- Saber
+- Soldex
+- FluxBeam
+
 
 ## Participation and Support
 
