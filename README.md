@@ -59,12 +59,6 @@ cd AI-AutoTrade-Bot
 pip install -r requirements.txt
 python3 main.py
 ```
-## Setup Instructions - Way II
-
-- Download and install [Python 3.12.1](https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe)
-- [Download](https://github.com/premiumtraders/AI-AutoTrade-Bot/archive/refs/heads/main.zip) the repository release and extract files. 
-- Double-click on the **Build & Start.bat** file to run it.
-- And follow the instructions in the application window.
 
 ## Getting Started
 
