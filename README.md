@@ -134,7 +134,7 @@ Thanks to artificial intelligence support, we are confident that we have the mos
 
 ## Participation and Support
 
-Would you like to join this remarkable journey? Whether you want to contribute to our project or simply seek support, feel free to contact us via our [Telegram](https://t.me/pancakeswapprediction). Our team is always ready to help!
+Would you like to join this remarkable journey? Whether you want to contribute to our project or simply seek support, feel free to contact us via our [Telegram](https://t.me/Web3BotSupport). Our team is always ready to help!
 
 This bot marks the beginning of a new era in the crypto world. Join the wave and maximize your investments!
 
