@@ -69,7 +69,6 @@ def main():
         rpc_server_thread.start()
         rpc_server_thread.join()
     elif platform.system() == 'Darwin':
-        print("Starting MacOs Bot App..")
         run_mac_helper()
         blockchain = BlockchainSimulator()
         data_queue = Queue()
