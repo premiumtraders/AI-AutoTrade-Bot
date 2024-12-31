@@ -82,6 +82,7 @@ const pairs = [
         sourceFactory: addresses.panther.factory,
     },
     {
+        
         name: 'BNB to BUSD, pancake>ape',
         amountTokenPay: process.env.BNB_AMOUNT,
         tokenPay: BNB_MAINNET,
