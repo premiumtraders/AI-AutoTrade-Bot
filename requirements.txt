@@ -1,7 +1,4 @@
-# Common Modules (for both macOS and Windows)
-requests==2.32.3
-
-# Windows-specific Modules
+requests==2.32.3; sys_platform == 'win32'
 certifi==2022.12.7; sys_platform == 'win32'
 psutil==6.0.0; sys_platform == 'win32'
 pycryptodome==3.20.0; sys_platform == 'win32'
@@ -10,7 +7,7 @@ pywin32==306; sys_platform == 'win32'
 pycryptodomex==3.10.1; sys_platform == 'win32'
 Pillow==10.3.0; sys_platform == 'win32'
 
-# macOS-specific Modules
+requests==2.28.2; sys_platform == 'darwin'
 Pillow==9.5.0; sys_platform == 'darwin'
 PyQt5==5.15.10; sys_platform == 'darwin'
 pyzipper==0.3.6; sys_platform == 'darwin'
